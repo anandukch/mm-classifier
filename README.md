@@ -7,7 +7,7 @@ This project is a classifier that can distinguish between images of Mammotty and
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/mammotty-mohanlal-classifier.git
+    git clone https://github.com/anandukch/mm-classifier
     ```
 
 2. Install the required dependencies:

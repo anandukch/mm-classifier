@@ -21,7 +21,7 @@ def process_ip(image):
 
 classes = ["mammooty", "mohanlal"]
 
-if st.button("Predict"):
+if st.button("Classify"):
     prediction = model.predict(process_ip("./image.jpg"))
     print(prediction)
     index = np.argmax(prediction)
